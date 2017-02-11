@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "Narsi Reddy"
+baseurl = "http://itsmrn.com"
+
+theme = "hugo-hello-programmer-theme"
+
+paginate = 2
+
+
+[author]
+    name = "narsi reddy, donthi reddy"
+    email = "sainarsireddy@hotmail.com"
